@@ -1,46 +1,32 @@
-# cGAS — Synthetic Natural Gas Price Token (on Arbitrum)
+# cGAS – Synthetic Gas Token  
 
-A minimal public page to understand **cGAS**, a synthetic token tracking the **natural gas** price. This repo is intentionally lightweight and focused on presentation.
-
-- Whitepaper: [Read online](https://docs.google.com/document/d/1MPs7XKl5TNQ5zYLWK1GWyz3COLnzKKJY/preview)
-- web site : 
-- Smart Contracts (technical repo):** _link to the main code repo_
-
-> This repository hosts a static landing page (GitHub Pages) and the project overview. For code, tests, and CI/CD, see the technical repositories.
-
-## What is cGAS?
-
-**cGAS** is a synthetic ERC-20 token designed to mirror the **natural gas** price via an on-chain oracle. It supports **mint/burn** against stablecoins and is designed for transparency and non-custodial operation.
-
-**Key ideas**
-- Transparent pricing from reputable commodity sources  
-- On-chain controls: pause, roles, and upgrade safety  
-- Simple UX: mint/burn against a stablecoin  
-
-## Roadmap (high level)
-- ✅ Testnet deployments & internal tests  
-- 🚧 Oracle & price updater hardening (alerts, monitoring)  
-- 🗳️ Governance: towards a DAO where holders can vote on fees, oracles, and updates  
-
-> After launch, cGAS will evolve into a **DAO**. Holders will vote on **fees**, **oracles**, and **protocol updates** — returning power to the community.
-
-## Links
-- **Instagram
-- **Tiktok :  
-- **Twitter/X:** _link_  
-- **Telegram/Discord:** _link_  
-- **Email:** _contact@_
-
-## Legal
-This project is experimental and **not investment advice**. Tokens may be volatile. Check your local regulations before interacting with the protocol.
+**cGAS** is a decentralized synthetic cryptocurrency indexed on the price of natural gas, deployed on Arbitrum.  
+Our mission is to bring real-world commodity exposure on-chain in a transparent, community-driven way.  
 
 ---
 
-### Quick start (for this repo)
-No build step. Open `index.html` locally or visit the GitHub Pages URL (see below).
+## 🌐 Official Links  
 
-### GitHub Pages
-This repo uses **GitHub Actions → Pages**. When you push to `main`, an action publishes the static site. The Pages URL appears in the repo **Settings → Pages** or in the last deployment log.
+- 🌍 **Website**: [cryptogaz2025.wixsite.com/cgaz](https://cryptogaz2025.wixsite.com/cgaz)  
+- 📸 **Instagram**: [@cgas_crypto](https://www.instagram.com/cgas_crypto?igsh=MW5pd2dxa3h0djJlMA%3D%3D&utm_source=qr)  
+- 🎵 **TikTok**: [@cgas_crypto](https://www.tiktok.com/@cgas_crypto?_t=ZN-8yw4oA1x6la&_r=1)  
+- 🐦 **X (Twitter)**: [@CgasCrypto](https://x.com/CgasCrypto)  
 
-### License
-See [LICENSE](./LICENSE).
+---
+
+## 📖 About  
+
+- **Blockchain**: Arbitrum One  
+- **Token Standard**: ERC-20  
+- **Mechanism**: Mint & Burn against USDC  
+- **Oracle**: Natural gas price feed (automated updates)  
+- **Community**: Governance will progressively move to a DAO  
+
+---
+
+## 🤝 Join the Community  
+
+Follow us on social media and stay updated with the latest news, updates, and community discussions.  
+The future of decentralized synthetic commodities starts with **cGAS**.
+
+
